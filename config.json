@@ -54,6 +54,28 @@
       "unityads_interstisial": "Interstitial_Android",
       "unityads_reward": "Rewarded_Android"
     },
+    "Wallpapers Aurora": {
+      "ad_network": "unityads",
+      "admob_id_unit_banner_1": "ca-app-pub-3940256099942544/6300978111",
+      "admob_id_unit_interstisial_1": "ca-app-pub-2620371422128173/7014466840",
+      "admob_id_unit_nativead_1": "ca-app-pub-2620371422128173/2546159674",
+      "admob_id_unit_openad_1": "ca-app-pub-2620371422128173/5701385176",
+      "app_id_admob": "",
+      "applovin_id_unit_banner_1": "f36358248905c533",
+      "applovin_id_unit_interstisial_1": "0d92f32fea4566af",
+      "applovin_id_unit_nativead_1": "9c047702da67b5e8",
+      "applovin_id_unit_openad_1": "f987b57e99f9f847",
+      "applovin_id_unit_reward_1": "26d9daeea5c6ccd0",
+      "fan_id_aplikasi": "",
+      "fan_placement_banner_1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_placement_interstisial_1": "769912474490680_769912764490651",
+      "fan_placement_native_1": "769912474490680_769912864490641",
+      "bidding": "unityads",
+      "unityads_gameid": "5188615",
+      "unityads_banner": "Banner_Android",
+      "unityads_interstisial": "Interstitial_Android",
+      "unityads_reward": "Rewarded_Android"
+    },
     "Wallpapers Yoona": {
       "ad_network": "applovin",
       "admob_id_unit_banner_1": "ca-app-pub-3940256099942544/6300978111",
